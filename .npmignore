@@ -10,7 +10,6 @@ spec
 tests
 .gitignore
 .dockerignore
-.npmignore 
 .npmrc
 .soliumignore
 .soliumrc.json
